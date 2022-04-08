@@ -8,7 +8,7 @@ function myNes() {
             "outside": {
                 "trunk": "jack"
             }
-        };
+        }
     };
     var gloveBoxContents = myStorage.car.inside["glove box"];
     return gloveBoxContents;

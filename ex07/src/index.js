@@ -5,7 +5,7 @@ var collection = {
         tracks: [
             "Let It Rock",
             "You Give Love a Bad Name"
-        ],
+        ]
     },
     2468: {
         album: "1999",
@@ -13,13 +13,13 @@ var collection = {
         tracks: [
             "1999",
             "Little Red Corvette"
-        ],
+        ]
     },
     1245: {
         artist: "Robert Palmer",
-        tracks: [ ],
+        tracks: [ ]
     },
-    1245: {
+    5439: {
         album: "ABBA Gold"
     }
 };

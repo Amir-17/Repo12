@@ -7,7 +7,7 @@ function sumFibonacci(num) {
             return 1;
         } else if (num1 % 2 !== 0) {
             sum += num1;
-        }  {
+        } else {
             num1 += num0;
             num0 = num1 - num0;
         };
